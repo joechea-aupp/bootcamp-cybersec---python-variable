@@ -264,6 +264,7 @@ Part 7: Boolean
 <= (≤) Less than or equals to
 in used to check if an item can be found in another item
 not in check if something is not in another item
+
 '''
 print(10 == 9)
 print(10 != 9)
